@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+}
+
+h1 {
+  color: red;
+  font-size: 20px;
+}
+
+.hello {
+  height: 100vh;
+  background-image: url("./img/awesome_webpack_branding.png");
+  /* background-size: 300px; */
+  background-repeat: no-repeat;
+  background-size: contain;
+}
